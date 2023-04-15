@@ -1,11 +1,11 @@
 # SISTEM OPERASI
 
-| Nama Mata Kuliah | SISTEM OPERASI                  |
-| ---------------- | ------------------------------- |
-| Dosen Pengampu   | [Abdi Pandu Kusuma, S.Kom, M.T] |
-| Tahun Ajaran     | Genap 2022/2023                 |
-| Kelas            | REGULER                         |
-| Institusi        | fti.unisbablitar.ac.id          |
+| Nama Mata Kuliah | SISTEM OPERASI                |
+| ---------------- | ----------------------------- |
+| Dosen Pengampu   | Abdi Pandu Kusuma, S.Kom, M.T |
+| Tahun Ajaran     | Genap 2022/2023               |
+| Kelas            | REGULER                       |
+| Institusi        | fti.unisbablitar.ac.id        |
 
 ## Data Diri
 
