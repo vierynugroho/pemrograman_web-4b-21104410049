@@ -1,17 +1,16 @@
 # SISTEM OPERASI
 
-| Nama Mata Kuliah  | SISTEM OPERASI |
-|--|--|
-| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
-| Tahun Ajaran | Genap 2022/2023 |
-| Kelas | REGULER |
-| Email | mohammadfariedrahmat@unisbablitar.ac.id |
-| Institusi | fti.unisbablitar.ac.id |
+| Nama Mata Kuliah | SISTEM OPERASI                  |
+| ---------------- | ------------------------------- |
+| Dosen Pengampu   | [Abdi Pandu Kusuma, S.Kom, M.T] |
+| Tahun Ajaran     | Genap 2022/2023                 |
+| Kelas            | REGULER                         |
+| Institusi        | fti.unisbablitar.ac.id          |
 
 ## Data Diri
 
-|  |  |
-|--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
-| Kelas | TI-4B |
+|              |                   |
+| ------------ | ----------------- |
+| NIM          | **21104410049**   |
+| Nama Lengkap | **Viery Nugroho** |
+| Kelas        | TI-4B             |
