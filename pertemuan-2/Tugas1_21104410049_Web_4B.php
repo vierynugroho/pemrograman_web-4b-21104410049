@@ -56,10 +56,10 @@ $lulus = $avg >= $kkm;
 
 <body>
 
-    <div class="container mx-auto">
-        <header class="mt-2 bg-primary p-3 rounded">
+    <div class="container mx-auto border rounded p-4 mt-2 shadow">
+        <header class="mt-2 bg-primary p-3 rounded shadow-lg">
             <div class=" row">
-                <div class="col-4">
+                <div class="col col-md-4 col-sm-12 mt-2">
                     <div class="biodata bg-primary rounded border p-2">
                         <div class="title-box">
                             <h2>Biodata</h2>
@@ -71,7 +71,7 @@ $lulus = $avg >= $kkm;
                         </div>
                     </div>
                 </div>
-                <div class="col-8">
+                <div class="col col-12 col-md-8 mt-2">
                     <div class="task bg-primary rounded border p-2">
                         <div class="title-box">
                             <h2>Tugas 1</h2>
@@ -86,9 +86,9 @@ $lulus = $avg >= $kkm;
                 </div>
             </div>
         </header>
-        <main class="mt-2 text-center rounded p-2">
+        <main class="mt-2 text-center rounded p-2 border shadow-lg">
             <div class="row">
-                <div class="col col-md-4">
+                <div class="col col-12 col-md-4 mt-2 shadow">
                     <div class="variable bg-danger border rounded p-2">
                         <div class="title text-white">
                             <h2><?= $task2 ?></h2>
@@ -103,7 +103,7 @@ $lulus = $avg >= $kkm;
                         </div>
                     </div>
                 </div>
-                <div class="col col-md-4">
+                <div class="col col-12 col-md-4 mt-2 shadow">
                     <div class="aritmatika  bg-info border rounded p-2">
                         <div class="title">
                             <h2><?= $task3 ?></h2>
@@ -130,7 +130,7 @@ $lulus = $avg >= $kkm;
                         </div>
                     </div>
                 </div>
-                <div class="col col-md-4">
+                <div class="col col-12 col-md-4 mt-2 shadow">
                     <div class="logika  bg-success border rounded p-2">
                         <div class="title text-white">
                             <h2><?= $task4 ?></h2>
