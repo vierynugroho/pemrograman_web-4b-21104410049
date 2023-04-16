@@ -27,7 +27,7 @@ $modulo = $angka1 % $angka2;
 $nilaiA = 90;
 $nilaiB = 85;
 $kkm = 80;
-$lunas = false;
+$lunas = true;
 $hoki = true;
 
 $avg = ($nilaiA + $nilaiB) / 2;
@@ -55,7 +55,6 @@ $lulus = $avg >= $kkm;
 </head>
 
 <body>
-
     <div class="container mx-auto border rounded p-4 mt-2 shadow">
         <header class="mt-2 bg-primary p-3 rounded shadow-lg">
             <div class=" row">
@@ -167,6 +166,8 @@ $lulus = $avg >= $kkm;
                                     echo "<h5>WISUDA</h5>";
                                 } else if ($wisuda = $lulus && !$lunas) {
                                     echo "<h5>TIDAK WISUDA, BAYAR DULU</h5>";
+                                } else if ($wisuda = !$lulus && $lunas) {
+                                    echo "<h5>TIDAK WISUDA, TIDAK LULUS</h5>";
                                 } else if ($wisuda = !$lulus || !$lunas || $hoki) {
                                     echo "<h5>WISUDA JALUR HOKI</h5>";
                                 }
