@@ -24,7 +24,6 @@ do{
     echo "Hasil Pembagian Dengan {$x} = {$hasil} <br>";
     $bilangan = $bilangan / $x;
     $hasil = $bilangan;
-    $hasil = $bilangan;
     
 } while($hasil > 0);
 
