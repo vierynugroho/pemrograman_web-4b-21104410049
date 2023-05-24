@@ -8,6 +8,9 @@
 const NAMA = "Viery Nugroho";
 const NIM = 21104410049;
 
+echo "Nama: " . NAMA . "<br>";
+echo "NIM : " . NIM . "<hr>";
+
 // TODO Tugas
 $x = 9;
 $bilangan = 10000;
