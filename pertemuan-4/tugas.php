@@ -31,6 +31,6 @@ do{
 
     $hasil = $bilangan;
     
-} while($hasil >= 0);
+} while($hasil > 0);
 
 ?>
